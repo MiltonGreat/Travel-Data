@@ -48,15 +48,15 @@ The dataset contains information on individual trips taken by travelers, with co
 
 #### 6. Key Findings
       
-Popular Travel Destinations: The most visited destinations include major global cities such as New York, London, and Tokyo, reflecting the popularity of large urban centers among travelers.
+Strong relationships: 
 
-Seasonal Travel Patterns: Travel trends show a seasonal pattern, with peaks in the number of trips during the summer and around winter holidays, suggesting that travelers are more likely to take trips during traditional vacation periods.
+- Accommodation cost and Transportation cost (0.787): Travelers who spend more on accommodation also tend to spend more on transportation.
+- Trip ID and Transportation cost (0.448): As trips are numbered, there is a moderate positive correlation with transportation costs, which could reflect increasing travel costs over time.
 
-Cost and Duration Relationship: Longer trips tend to incur higher accommodation and transportation costs, but there is considerable variability based on the destination and travel style.
+Weak or insignificant correlations:
 
-Country-Level Costs: Accommodation and transportation costs vary widely across different countries, with destinations like New York and Tokyo having higher average accommodation costs compared to other locations.
-
-Outliers in Cost: Outliers in accommodation and transportation costs suggest that a few trips involved unusually high or low spending, potentially representing luxury travel or budget trips.
+- Duration and travel costs (both accommodation and transportation) are not strongly correlated, meaning that the length of the trip does not directly influence these costs significantly.
+- Traveler age shows very weak correlations with other variables, indicating it does not play a major role in influencing trip duration or costs.
 
 #### 7.  Source
 
